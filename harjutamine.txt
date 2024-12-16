@@ -1,1 +1,1 @@
-
+GitHubi teenus on olnud kasutajatele saadaval alates 2008. aasta aprillist. GitHub Inc. asutasid 2008. aasta veebruaris Tom Preston-Werner, Chris Vanomstraet, PJ Highet ja Scott Ciaccon. Sellest on saanud üks juhtivaid platvorme Giti versioonikontrollisüsteemi kasutavate projektide hostimiseks ja nendega koostöö tegemiseks.
