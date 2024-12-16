@@ -1,0 +1,1 @@
+GitHub on versioonihaldussüsteemil põhinevate IT-projektide majutamise sait. Seda platvormi kasutades saavad programmeerijad koodi kallal koostööd teha. GitHub võimaldab inimestel üle kogu maailma projektidesse panustada, luues uusi ja täiustatud versioone.
