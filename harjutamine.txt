@@ -1,1 +1,1 @@
-
+GitHubi saab kasutada projektide haldamiseks, arendusmeeskonnaga koostöö tegemiseks ja koodi salvestamiseks versioonikontrolli abil. Tulevikus on see kasulik avatud lähtekoodiga või ettevõtteprojektides osalemiseks, oma portfoolio tutvustamiseks ja parimate arendustavade õppimiseks.
